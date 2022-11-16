@@ -37,7 +37,6 @@ class Car
 		num = n;
 		gas = g;
 		System.out.println("生產了車號為" +num +"，汽油量為" +gas+ "的車子");
-		System.out.println("-------------------------------------");
 	}
 	
 	public static void showSum() 
