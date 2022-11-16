@@ -30,7 +30,6 @@ class Car
 		this();//呼叫沒有帶參數的建構式
 		num = n;
 		gas = g;
-		System.out.println("-------------------------------------");
 		System.out.println("生產了車號為" +num +"，汽油量為" +gas+ "的車子");
 	}
 	
