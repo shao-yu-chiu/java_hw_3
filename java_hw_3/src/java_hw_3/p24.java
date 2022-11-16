@@ -9,12 +9,10 @@ public class p24 {
 		car1.setCar(131254, 20.5);
 		car1.show();
 		
-		System.out.println("-------------------------");
 		System.out.println("只變更車號");
 		car1.setCar(3654423);
 		car1.show();
 		
-		System.out.println("-------------------------");
 		System.out.println("只變更汽油量");
 		car1.setCar(8492.6);
 		car1.show();
