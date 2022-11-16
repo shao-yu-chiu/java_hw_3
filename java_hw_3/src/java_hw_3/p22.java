@@ -9,7 +9,6 @@ public class p22 {
 		car1.setNumGas(131254, 20.5);
 		car1.show();
 		
-		System.out.println("-------------------------");
 		System.out.println("指定不正確的汽油量{-10.0}看看");
 	
 		car1.setNumGas(131254, -10);
